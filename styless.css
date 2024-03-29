@@ -216,7 +216,7 @@ body {
   }
 }
 
-@media screen and (max-width: 400px) {
+@media screen and (max-width: 717px) and (max-height: 831px) {
   /* Styles for screens up to 400px wide (e.g., small mobile screens) */
   .magicball_outer {
     width: 150px;
@@ -237,7 +237,7 @@ body {
   }
 
   .magicball__spotlight {
-    width: 100px;
+    width: 1000px;
     height: 100px;
   }
 
@@ -256,7 +256,7 @@ body {
     height: 70px;
   }
 }
-a screen and (max-width: 600px) {
+a screen and (max-width: 700px) {
   .magicball_outer {
     width: 200px;
     height: 200px;
